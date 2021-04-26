@@ -51,12 +51,14 @@ A Blog application
     *Logout page
     *Main page after logging in
     *Admin page
+    *Password reset
     ```
     https://zuriaps.herokuapp.com/accounts/login
     https://zuriaps.herokuapp.com/accounts/signup
     https://zuriaps.herokuapp.com/accounts/logout
     https://zuriaps.herokuapp.com
     https://zuriaps.herokuapp.com/admin
+    https://zuriaps.herokuapp.com/accounts/password/reset/
 
     ```
 
